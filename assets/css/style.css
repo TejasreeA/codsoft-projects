@@ -46,7 +46,7 @@ header> button{
     background-color: rgb(28, 248, 175);
     border-radius: 50px;
     border: none;
-    cursor: :pointer;
+    cursor :pointer;
     outline:none;
 
 }
