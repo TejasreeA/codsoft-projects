@@ -64,7 +64,7 @@ header> button:hover{
 .wrapper:before {
     position: absolute;
     content: '';
-    background-image: linear-gradient(to right, rgba(202, 56, 173, 0.95), rgba(220, 38, 165, 0.95), rgba(244, 74, 238, 0.9), rgba(165, 29, 219, 0.85), rgba(150, 41, 230, 0.95));
+    background-image: linear-gradient(to right, rgba(243, 58, 212, 0.95), rgba(240, 96, 216, 0.95), rgba(196, 70, 227, 0.9), rgba(150, 45, 192, 0.85), rgba(150, 41, 230, 0.95));
     width: 100%;
     height: 100%;
     top: 0;
@@ -139,7 +139,7 @@ header> button:hover{
 }
 
 .bg-facebook {
-    background-color: #4267B2;
+    background-color: #160cd0;
 }
 
 .bg-youtube {
@@ -147,7 +147,7 @@ header> button:hover{
 }
 
 .bg-instagram {
-    background-color: #C13584;
+    background-color: #fb0394;
 }
 .locale{
     animation-name: colorChange;
